@@ -4,8 +4,8 @@
 #Print the user age out
 #Print out Hello World!
 
-name = input("What is your name:")
+name = input("What is your name?")
    print(name)
-age = (int(input("how old are you:"))
+age = int(input("How old are you?"))
     print(age)
-print("Hello World")
+print("Hello World!")
