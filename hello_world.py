@@ -5,7 +5,7 @@
 #Print out Hello World!
 
 name = input("What is your name?")
-   print(name)
+print(name)
 age = int(input("How old are you?"))
-    print(age)
+print(age)
 print("Hello World!")
